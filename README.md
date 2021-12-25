@@ -1,0 +1,1 @@
+This repo contains serverless lambda function that returns sample data.
